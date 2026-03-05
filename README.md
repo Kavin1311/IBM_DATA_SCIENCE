@@ -23,3 +23,10 @@ This project predicts whether the Falcon 9 first-stage booster will land success
 
 ## How to Run
 1. Clone the repository:
+git clone https://github.com/YourUsername/SpaceX_Falcon9_Capstone.git
+
+2. Install required packages:
+
+pip install -r requirements.txt
+
+3. Open the Jupyter notebooks in `notebooks/` to reproduce the analysis.
